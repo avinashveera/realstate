@@ -20,7 +20,7 @@
     "slick-carousel": "^1.8.1",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "avinashveera.https://github.io/realstate",
+  "homepage": "https://avinashveera.github.io/realstate",
   "scripts": {
     "predeploy":"npm run build",
     "deploy":"gh-pages -d build",
