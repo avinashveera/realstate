@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+  color: #000;
+}
+
+/* //"#0F2D4F"
+#03B990
+*/
+@media only screen and (max-width: 600px) {
+  .customisenavbars{
+
+    background-color:#0F2D4F;
+    padding:7px 0px;
+    margin-top:20px;
+    width:auto
+        
+    }
+
+    .customisenavbars > a {
+ color: #fff;
+    }
+}
